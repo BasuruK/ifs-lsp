@@ -3,7 +3,7 @@
   "description": "IFS Marble/PLSQL Language Server plugin for Claude Code",
   "owner": {
     "name": "Basuru Balasuriya",
-    "email": "www.basururoxyouall@gmail.com"
+    "email": "bestbasuru@live.com"
   },
   "plugins": [
     {
@@ -13,7 +13,7 @@
       "source": "./",
       "author": {
         "name": "Basuru Balasuriya",
-        "email": "www.basururoxyouall@gmail.com"
+        "email": "bestbasuru@live.com"
       }
     }
   ]
