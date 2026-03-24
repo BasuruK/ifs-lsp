@@ -1,0 +1,20 @@
+{
+  "name": "ifs-lsp-dev",
+  "description": "IFS Marble/PLSQL Language Server plugin for Claude Code",
+  "owner": {
+    "name": "Basuru Balasuriya",
+    "email": "www.basururoxyouall@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "ifs-lsp",
+      "description": "IFS Marble/PLSQL Language Server for Claude Code. Provides code intelligence, go-to-definition, find references, diagnostics, and code generation for IFS application files (.plsql, .plsvc, .fragment, .ins, .client, .projection, .entity, .cre, .cdb, .upg).",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Basuru Balasuriya",
+        "email": "www.basururoxyouall@gmail.com"
+      }
+    }
+  ]
+}
