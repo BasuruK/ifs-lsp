@@ -1,0 +1,20 @@
+{
+  "ifs": {
+    "command": "java",
+    "args": ["-jar", "C:/IFS/Codegen/ifs-dev-buildtasks.jar", "-lsp"],
+    "transport": "stdio",
+    "extensionToLanguage": {
+      ".plsql": "ifs",
+      ".plsvc": "ifs",
+      ".fragment": "ifs",
+      ".ins": "ifs",
+      ".client": "ifs",
+      ".projection": "ifs",
+      ".entity": "ifs",
+      ".cre": "ifs",
+      ".cdb": "ifs",
+      ".upg": "ifs"
+    },
+    "maxRestarts": 3
+  }
+}

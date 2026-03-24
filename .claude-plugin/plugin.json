@@ -1,0 +1,7 @@
+{
+  "name": "ifs-lsp",
+  "description": "IFS Marble/PLSQL Language Server for Claude Code. Provides code intelligence, go-to-definition, find references, diagnostics, and code generation for IFS application files (.plsql, .plsvc, .fragment, .ins, .client, .projection, .entity, .cre, .cdb, .upg). Requires the IFS build tasks JAR at C:/IFS/Codegen/ifs-dev-buildtasks.jar.",
+  "author": {
+    "name": "IFS"
+  }
+}
